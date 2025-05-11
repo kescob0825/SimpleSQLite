@@ -12,4 +12,6 @@ add_executable(SimpleSQLite main.c
         compiler/Tokenizer.c
         core/VirtualMachine.h
         core/VirtualMachine.c
+        utility/BTree.h
+        utility/BTree.c
 )
