@@ -4,7 +4,7 @@
 
 #include "CommandProcessor.h"
 
-MetaCommand exec_meta_command(InputBuffer* input_buffer) {
+MetaCommandType exec_meta_command(InputBuffer* input_buffer) {
     if (input_buffer->buffer[0] == '.') {
         if (strcmp(input_buffer->buffer, ".exit") == 0) {
             exit(EXIT_SUCCESS);

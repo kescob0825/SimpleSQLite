@@ -9,8 +9,8 @@ typedef enum {
     META_COMMAND_SUCCESS,
     META_COMMAND_UNRECOGNIZED,
     META_COMMAND_INVALID_IDENTIFIER
-  } MetaCommand;
+  } MetaCommandType;
 
-MetaCommand exec_meta_command(InputBuffer* input_buffer);
+MetaCommandType exec_meta_command(InputBuffer* input_buffer);
 
 #endif //COMMANDPROCESSOR_H
