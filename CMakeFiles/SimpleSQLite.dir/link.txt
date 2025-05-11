@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SimpleSQLite.dir/objects.a
-C:\PROGRA~1\MinGW64\mingw64\bin\ar.exe qc CMakeFiles\SimpleSQLite.dir/objects.a @CMakeFiles\SimpleSQLite.dir\objects1.rsp
-C:\PROGRA~1\MinGW64\mingw64\bin\gcc.exe -Wl,--whole-archive CMakeFiles\SimpleSQLite.dir/objects.a -Wl,--no-whole-archive -o SimpleSQLite.exe -Wl,--out-implib,libSimpleSQLite.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SimpleSQLite.dir\linkLibs.rsp

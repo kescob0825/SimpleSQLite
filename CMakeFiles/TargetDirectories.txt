@@ -1,3 +1,0 @@
-C:/School Files/Resume_CV_docs/Projects/SimpleSQLite/CMakeFiles/SimpleSQLite.dir
-C:/School Files/Resume_CV_docs/Projects/SimpleSQLite/CMakeFiles/edit_cache.dir
-C:/School Files/Resume_CV_docs/Projects/SimpleSQLite/CMakeFiles/rebuild_cache.dir
